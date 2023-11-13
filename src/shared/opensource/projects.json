@@ -46,10 +46,10 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "truGreen data consultant",
-      "createdAt": "2021-03-13T20:41:33Z",
-      "url": "https://github.com/sidrah1998/truGreen-data-analysis/tree/main#trugreen-data-analysis",
-      "description": "📦 Enhanced customer satisfaction and analysed NPS",
+      "name": "Hotel Cancellations Prediction model",
+      "createdAt": "11-25-2020",
+      "url": "https://github.com/sidrah1998/Hotel_cancellations/edit/main/readme.md",
+      "description": "Investigates attributes of the guests themselves including whether individuals or families cancel more, if prior cancellations influence future cancellations",
       "isFork": false,
       "languages": [
         {
@@ -64,19 +64,23 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "truGreen data consultant",
-      "createdAt": "2021-03-13T20:41:33Z",
-      "url": "https://github.com/sidrah1998/truGreen-data-analysis/tree/main#trugreen-data-analysis",
-      "description": "📦 Enhanced customer satisfaction and analysed NPS",
+      "name": "A/B testing - UTDallas Indian Students Association",
+      "createdAt": "2022-03-10T20:41:33Z",
+      "url": "https://github.com/sidrah1998/A-B-Testing-UTDallas/blob/main/Final%20Presentation.pdf",
+      "description": "Using behavioral nudges to drive participation on campus amongst students",
       "isFork": false,
       "languages": [
         {
-          "name": "R",
-          "iconifyClass": "logos:r-lang"
+          "name": "Python",
+          "iconifyClass": "logos:python"
         },
         {
-          "name": "Power BI",
-          "iconifyClass": "logos:microsoft-power-bi"
+          "name": "Tableau",
+          "iconifyClass": "logos:tableau"
+        },
+        {
+          "name": "Marketo",
+          "iconifyClass": "simple-icons:marketo"
         }
       ]
     }
