@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Food delivery re-ordering prediction model - Kaggle",
+      "createdAt": "2023-11-01T16:26:54Z",
+      "url": "https://github.com/sidrah1998/food-delivery-analysis#food-delivery-analysis",
+      "description": "🔥 A prediction model for food re-ordering is a specialized algorithm designed to anticipate when and what food items a customer would reorder based on historical ordering data and other relevant factors.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Vue",
+          "iconifyClass": "logos-vue"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "Tableau",
+          "iconifyClass": "logos-tableau"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "truGreen data consultant",
+      "createdAt": "2021-03-13T20:41:33Z",
+      "url": "https://github.com/sidrah1998/truGreen-data-analysis/tree/main#trugreen-data-analysis",
+      "description": "📦 Enhanced customer satisfaction and analysed NPS",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "R",
+          "iconifyClass": "logos:r-lang"
+        },
+        {
+          "name": "Power BI",
+          "iconifyClass": "logos:microsoft-power-bi"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "truGreen data consultant",
+      "createdAt": "2021-03-13T20:41:33Z",
+      "url": "https://github.com/sidrah1998/truGreen-data-analysis/tree/main#trugreen-data-analysis",
+      "description": "📦 Enhanced customer satisfaction and analysed NPS",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "R",
+          "iconifyClass": "logos:r-lang"
+        },
+        {
+          "name": "Power BI",
+          "iconifyClass": "logos:microsoft-power-bi"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "truGreen data consultant",
+      "createdAt": "2021-03-13T20:41:33Z",
+      "url": "https://github.com/sidrah1998/truGreen-data-analysis/tree/main#trugreen-data-analysis",
+      "description": "📦 Enhanced customer satisfaction and analysed NPS",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "R",
+          "iconifyClass": "logos:r-lang"
+        },
+        {
+          "name": "Power BI",
+          "iconifyClass": "logos:microsoft-power-bi"
+        }
+      ]
+    }
+  ]
+}
