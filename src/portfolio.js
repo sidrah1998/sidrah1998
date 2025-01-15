@@ -33,7 +33,7 @@ const greeting = {
 const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/sidrah1998",
-  // linkedin: "https://www.linkedin.com/in/sidrah-ahmad-marekting/",
+  // linkedin: "https://www.linkedin.com/in/sidrah-ahmad-analyst/",
   // gmail: "sidrah1998@Hotmail.co.uk,
   // instagram: "https://www.instagram.com/sidrahmadx/"
 
@@ -45,7 +45,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/sidrah-ahmad-marketing/",
+    link: "https://www.linkedin.com/in/sidrah-ahmad-analyst/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -167,7 +167,7 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Google analytics",
+          skillName: "Google Analytics",
           fontAwesomeClassname: "simple-icons:google360",
           style: {
             color: "#4285F4",
@@ -260,7 +260,7 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "University of Mumbai ",
+      title: "University of Mumbai",
       subtitle: "Bachelors of Mass Media, Advertisement",
       logo_path: "umumbail.png",
       alt_name: "UoMumbai",
@@ -334,7 +334,7 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Digital Cateogry Specialist",
+          title: "Category Data Analyst",
           company: "Milliporesigma / Merck KGAA",
           company_url: "https://www.emdgroup.com/en",
           logo_path: "merck.png",
@@ -356,7 +356,7 @@ const experience = {
           color: "#9b1578",
         },
         {
-          title: "Marketing & Activations Specialist",
+          title: "Marketing Data Analyst",
           company: "The Hanging House",
           company_url: "https://www.hanginghouse.com",
           logo_path: "thh.png",
@@ -378,7 +378,7 @@ const experience = {
           color: "#fc1f20",
         },
         {
-          title: "Freelance - event management intern",
+          title: "Freelance - Event Management Intern",
           company: "Sharjah Book Authority",
           company_url: "https://sba.gov.ae",
           logo_path: "shj.jpeg",
