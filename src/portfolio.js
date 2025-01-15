@@ -260,19 +260,6 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "University of Mumbai",
-      subtitle: "Bachelors of Mass Media, Advertisement",
-      logo_path: "umumbail.png",
-      alt_name: "UoMumbai",
-      duration: "2016 - 2019",
-      descriptions: [
-        "⚡Completed Bachelors of Mass Media with a focus on Advertising, submitted a paper on the effect of violent media on children",
-        "⚡ Courses included Organizational Psychology, Media studies, Understanding Cinema, Brand building, Media law etc.",
-        "⚡ Submitted a documentary on the importance of psycholgical safety among teenagers in large cities, finishing 2nd among 20 universities.",
-      ],
-      website_link: "https://mu.ac.in",
-    },
-    {
       title: "University of Texas at Dallas",
       subtitle:
         "Masters of Science in Management Science, Data analytics and Project Management",
@@ -285,6 +272,19 @@ const degrees = {
         "⚡ During my time at university, I was also associated with the Project Management Club & Indian Students Organization.",
       ],
       website_link: "https://www.utdallas.edu/",
+    },
+    {
+      title: "University of Mumbai",
+      subtitle: "Bachelors of Mass Media, Advertisement",
+      logo_path: "umumbail.png",
+      alt_name: "UoMumbai",
+      duration: "2016 - 2019",
+      descriptions: [
+        "⚡Completed Bachelors of Mass Media with a focus on Advertising, submitted a paper on the effect of violent media on children",
+        "⚡ Courses included Organizational Psychology, Media studies, Understanding Cinema, Brand building, Media law etc.",
+        "⚡ Submitted a documentary on the importance of psycholgical safety among teenagers in large cities, finishing 2nd among 20 universities.",
+      ],
+      website_link: "https://mu.ac.in",
     },
   ],
 };
