@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Sidrah Ahmad's Portfolio",
+  title: "Change Sidrah Ahmad's Portfolio",
   description:
     "I am a data analyst and marketer passionate about working with organisations that want to make effective use of their data; from the first ideas around what you want to measure and how to capture data accurately, through data preparation, analysis and management, all the way to impactful presentation of insights. I can support each step of the process to enable your organization in making evidence-driven decisions or share insights with new audiences. My specialty lies in gathering both qualitative and quantitative data for a well-rounded analysis and decision. I've worked in 3 diverse countries so far and love relating real life to work decisions. ",
   og: {
