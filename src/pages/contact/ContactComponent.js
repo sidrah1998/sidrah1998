@@ -22,11 +22,14 @@ class Contact extends Component {
           <Fade bottom duration={1000} distance="40px">
             <div className="contact-heading-div">
               <div className="contact-heading-img-div">
+                {/* maintain aspect ratio */}
+
                 <img
-                  src={require(`../../assests/images/me.png`)}
+                  src={require(`../../assests/images/sidrah.jpg`)}
                   alt=""
                   style={{
                     borderRadius: "50%",
+                    height: "500px",
                   }}
                 />
               </div>
